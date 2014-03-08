@@ -1,0 +1,25 @@
+1.0.4
+
+- 20 bonus gold to goblins
+- fixed bug with bonuses after killing enemy leader with another enemy leader
+- minimalize strings by modifying difficulty
+- improved map
+
+1.0.3
+
+- classic difficulties
+- minor changes
+
+1.0.2
+
+- leader is no longer loyal
+
+1.0.1
+
+- added nagas
+- renamed scenario 1
+- changed sides for trolls and goblins
+
+1.0
+
+- first version
