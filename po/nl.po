@@ -16,12 +16,12 @@ msgstr ""
 #. [scenario]: id=Unite_the_Clans
 #: Unite_the_Clans/_main.cfg:9 Unite_the_Clans/scenarios/Unite_the_Clans.cfg:5
 msgid "Unite the Clans"
-msgstr ""
+msgstr "Verenig de Clans"
 
 #. [campaign]: id=Unite the Clans
 #: Unite_the_Clans/_main.cfg:10
 msgid "UTC"
-msgstr ""
+msgstr "VDC"
 
 #. [campaign]: id=Unite the Clans
 #. [part]
@@ -36,22 +36,22 @@ msgstr ""
 #. [about]
 #: Unite_the_Clans/_main.cfg:29
 msgid "Made by Stanislav Hoferek"
-msgstr ""
+msgstr "Gemaakt door Stanislav Hoferek"
 
 #. [side]: type=Orcish Ruler, id=Maihern
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:29
 msgid "your_leader_male^Maihern"
-msgstr ""
+msgstr "Maihern"
 
 #. [objective]: condition=win
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:90
 msgid "Defeat trolls, goblins and human knights"
-msgstr ""
+msgstr "Versla de trollen, kobolds en ridders"
 
 #. [objective]: condition=lose
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:94
 msgid "Death of Maihern"
-msgstr ""
+msgstr "Dood van Maihern"
 
 #. [message]: speaker=Maihern
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:120
