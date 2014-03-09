@@ -1,63 +1,76 @@
+# GunChleoc <fios@foramnagaidhlig.net>, 2014.
 msgid ""
 msgstr ""
 "Project-Id-Version: Unite_the_Clans-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-09 21:49+0100\n"
-"PO-Revision-Date: 2014-03-08 23:16+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"POT-Creation-Date: 2014-03-08 23:16+0100\n"
+"PO-Revision-Date: 2014-03-09 18:19+0100\n"
+"Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
+"Language-Team: Fòram na Gàidhlig http://www.foramnagaidhlig.net\n"
 "Language: gd\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3;\n"
+"X-Generator: Virtaal 0.7.1\n"
 
 #. [campaign]: id=Unite the Clans
 #. [scenario]: id=Unite_the_Clans
 #: Unite_the_Clans/_main.cfg:9 Unite_the_Clans/scenarios/Unite_the_Clans.cfg:5
 msgid "Unite the Clans"
-msgstr ""
+msgstr "Aonaich na Cinnidhean"
 
 #. [campaign]: id=Unite the Clans
 #: Unite_the_Clans/_main.cfg:10
 msgid "UTC"
-msgstr ""
+msgstr "AnC"
 
 #. [campaign]: id=Unite the Clans
 #. [part]
 #: Unite_the_Clans/_main.cfg:13
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:17
 msgid ""
-"Aimed to be a minimalist campaign. A young warchief have to unite all local "
-"clans and defend against invading knights, whose aim is to prevent the orcs "
-"from gaining power in this region."
+"Aimed to be a minimal campaign, young warchief have to unite all local clans "
+"and kill invading knights, who are trying to prevent the orcs gaining power "
+"in this region."
 msgstr ""
+"Is an t-amas aig an iomairt seo gum biodh i beag. Feumaidh an ceannard-"
+"cogaidh òg na cinnidhean ionadail aonachadh agus ridirean a mharbh a bheir "
+"ionnsaigh dhaibh, a' feuchainn ri bacadh a chur air smachd nan deamhain san "
+"sgìre."
 
 #. [about]
 #: Unite_the_Clans/_main.cfg:29
 msgid "Made by Stanislav Hoferek"
-msgstr ""
+msgstr "Le Stanislav Hoferek"
 
 #. [side]: type=Orcish Ruler, id=Maihern
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:29
 msgid "your_leader_male^Maihern"
-msgstr ""
+msgstr "Maithearn"
 
 #. [objective]: condition=win
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:90
 msgid "Defeat trolls, goblins and human knights"
-msgstr ""
+msgstr "Cuir ruaig air athaich, bòcain ’s ridirean"
 
 #. [objective]: condition=lose
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:94
 msgid "Death of Maihern"
-msgstr ""
+msgstr "Bàs Mhaitheirn"
 
 #. [message]: speaker=Maihern
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:120
 msgid ""
-"Those damned knights are back! They must've heard about my plan, to conquer "
-"trolls and goblins. I must destroy these humans if I were to unite the clans!"
+"Human knights are back! Damned! They must have heard about my plans, to "
+"conguer trolls and goblins. I wish too unite the clans, but to do so, I have "
+"to destroy attacking humans as well."
 msgstr ""
+"Tha na ridirean air ais! Gonadh orra! Feumaidh gun cuala iad mu na "
+"planaichean agam gus na h&#8209;athaich ’s na bòcain a cheannsachadh. Is "
+"miann leam na cinnidhean uile aonachadh ach cha tèid leam mus mill mi na "
+"daoine a bheir ionnsaigh oirnn cuideachd."
 
 #. [message]: speaker=Maihern
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:128
@@ -65,11 +78,13 @@ msgid ""
 "Great! Orcs, goblins and trolls will fight under one banner. Now it is our "
 "time to control our destiny."
 msgstr ""
+"Nach math sin! Nì na deamhain, na bòcain ’s na h-athaich sabaid fon aon "
+"bhratach a-nis. Tha ar dàn fo ar smachd fhèin mu dheireadh thall."
 
 #. [message]: speaker=unit
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:138
 msgid "Argh, I am dying! Orcs will be weak without a strong leader."
-msgstr ""
+msgstr "À, chaidh mo mharbhadh! Bidh na deamhain lag gun cheannard làidir aca."
 
 #. [message]: speaker=Maihern
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:199
@@ -78,3 +93,5 @@ msgstr ""
 msgid ""
 "More warriors are here to fight at our side! I can also recruit new units!"
 msgstr ""
+"Thàinig barrachd gaisgich gus sabaid a dhèanamh ri ar taobh! ’S urrainn "
+"dhomh aonadan ùra a thrusadh cuideachd!"
