@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Unite_the_Clans-1.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-09 21:49+0100\n"
-"PO-Revision-Date: 2014-03-09 18:19+0100\n"
+"PO-Revision-Date: 2014-03-10 08:30+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig http://www.foramnagaidhlig.net\n"
 "Language: gd\n"
@@ -30,7 +30,6 @@ msgstr "AnC"
 #. [part]
 #: Unite_the_Clans/_main.cfg:13
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:17
-#, fuzzy
 msgid ""
 "Aimed to be a minimalist campaign. A young warchief have to unite all local "
 "clans and defend against invading knights, whose aim is to prevent the orcs "
@@ -63,7 +62,6 @@ msgstr "Bàs Mhaitheirn"
 
 #. [message]: speaker=Maihern
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:120
-#, fuzzy
 msgid ""
 "Those damned knights are back! They must've heard about my plan, to conquer "
 "trolls and goblins. I must destroy these humans if I were to unite the clans!"
