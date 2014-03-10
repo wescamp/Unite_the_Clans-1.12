@@ -3,25 +3,26 @@ msgstr ""
 "Project-Id-Version: Unite_the_Clans-1.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-09 21:49+0100\n"
-"PO-Revision-Date: 2014-03-08 23:16+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2014-03-10 15:37+0100\n"
+"Last-Translator: Rami <contact@horizontality.org>\n"
 "Language-Team: none\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #. [campaign]: id=Unite the Clans
 #. [scenario]: id=Unite_the_Clans
 #: Unite_the_Clans/_main.cfg:9 Unite_the_Clans/scenarios/Unite_the_Clans.cfg:5
 msgid "Unite the Clans"
-msgstr ""
+msgstr "Unir les clans"
 
 #. [campaign]: id=Unite the Clans
 #: Unite_the_Clans/_main.cfg:10
 msgid "UTC"
-msgstr ""
+msgstr "GMT"
 
 #. [campaign]: id=Unite the Clans
 #. [part]
@@ -32,26 +33,29 @@ msgid ""
 "clans and defend against invading knights, whose aim is to prevent the orcs "
 "from gaining power in this region."
 msgstr ""
+"Désigné pour être une campagne minimaliste. Un jeune chef de clan doit unir "
+"tous les clans locaux et défendre contre une invasion de chevaliers, qui "
+"visent à empêcher les orcs de gagner du pouvoir dans cette région."
 
 #. [about]
 #: Unite_the_Clans/_main.cfg:29
 msgid "Made by Stanislav Hoferek"
-msgstr ""
+msgstr "Créé par Stanislav Hoferek"
 
 #. [side]: type=Orcish Ruler, id=Maihern
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:29
 msgid "your_leader_male^Maihern"
-msgstr ""
+msgstr "your_leader_male^Maihern"
 
 #. [objective]: condition=win
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:90
 msgid "Defeat trolls, goblins and human knights"
-msgstr ""
+msgstr "Vaincre les trolls, les gobelins et les chevaliers humains."
 
 #. [objective]: condition=lose
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:94
 msgid "Death of Maihern"
-msgstr ""
+msgstr "Mort de Maihern"
 
 #. [message]: speaker=Maihern
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:120
@@ -59,6 +63,9 @@ msgid ""
 "Those damned knights are back! They must've heard about my plan, to conquer "
 "trolls and goblins. I must destroy these humans if I were to unite the clans!"
 msgstr ""
+"Ces enfoirés de chevaliers sont de retour ! Ils ont du entendre parler de "
+"mes plans de conquérir les trolls et les gobelins. Je dois détruire ces "
+"humains pour pouvoir unir les clans !"
 
 #. [message]: speaker=Maihern
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:128
@@ -66,11 +73,13 @@ msgid ""
 "Great! Orcs, goblins and trolls will fight under one banner. Now it is our "
 "time to control our destiny."
 msgstr ""
+"Parfait ! Les orcs, gobelins et trolls vont se battre sous une même "
+"bannière. Il est temps à présent de contrôler notre destinée."
 
 #. [message]: speaker=unit
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:138
 msgid "Argh, I am dying! Orcs will be weak without a strong leader."
-msgstr ""
+msgstr "Argh, je meurs ! Les orcs seront faibles sans un chef puissant."
 
 #. [message]: speaker=Maihern
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:199
@@ -79,3 +88,5 @@ msgstr ""
 msgid ""
 "More warriors are here to fight at our side! I can also recruit new units!"
 msgstr ""
+"Plus de guerriers nous ont rejoint pour se battre à nos côtés ! Je peux "
+"aussi recruter de nouvelles unités !"
