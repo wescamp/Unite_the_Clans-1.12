@@ -1,27 +1,32 @@
+# European Portuguese translations for Battle for Wesnoth
+# Copyright (C) 2005-2014 Wesnoth development team
+# This file is distributed under the same license as the Battle for Wesnoth package.
+# trewe <sjrs456@yahoo.fr>, 2014
 msgid ""
 msgstr ""
-"Project-Id-Version: Unite_the_Clans-1.12\n"
+"Project-Id-Version: Battle for Wesnoth 1.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-09 21:49+0100\n"
-"PO-Revision-Date: 2014-03-08 23:16+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2014-03-10 14:50+0100\n"
+"Last-Translator: trewe <sjrs456@yandex.com>\n"
+"Language-Team: wesn-pt-trans <wesn-pt-trans-users@lists.sourceforge.net>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #. [campaign]: id=Unite the Clans
 #. [scenario]: id=Unite_the_Clans
 #: Unite_the_Clans/_main.cfg:9 Unite_the_Clans/scenarios/Unite_the_Clans.cfg:5
 msgid "Unite the Clans"
-msgstr ""
+msgstr "Reúne as Tribos"
 
 #. [campaign]: id=Unite the Clans
 #: Unite_the_Clans/_main.cfg:10
 msgid "UTC"
-msgstr ""
+msgstr "RaT"
 
 #. [campaign]: id=Unite the Clans
 #. [part]
@@ -32,26 +37,29 @@ msgid ""
 "clans and defend against invading knights, whose aim is to prevent the orcs "
 "from gaining power in this region."
 msgstr ""
+"Uma campanha mínima na qual um jovem guerreiro orc têm de unir todas as "
+"tribos locais e expulsar os cavaleiros invasores que o querem prevenir de "
+"angariar o poder na região."
 
 #. [about]
 #: Unite_the_Clans/_main.cfg:29
 msgid "Made by Stanislav Hoferek"
-msgstr ""
+msgstr "Feito por Stanilav Hoferek"
 
 #. [side]: type=Orcish Ruler, id=Maihern
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:29
 msgid "your_leader_male^Maihern"
-msgstr ""
+msgstr "Maihern"
 
 #. [objective]: condition=win
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:90
 msgid "Defeat trolls, goblins and human knights"
-msgstr ""
+msgstr "Derrote os trolls, os goblins e todos cavaleiros humanos"
 
 #. [objective]: condition=lose
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:94
 msgid "Death of Maihern"
-msgstr ""
+msgstr "Morte de Maihern"
 
 #. [message]: speaker=Maihern
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:120
@@ -59,6 +67,9 @@ msgid ""
 "Those damned knights are back! They must've heard about my plan, to conquer "
 "trolls and goblins. I must destroy these humans if I were to unite the clans!"
 msgstr ""
+"Esses malditos cavaleiros humanos estão de volta! Têm ter ouvido do meu "
+"plano de conquista dos trolls e goblins. Quero unir as tribos a qualquer "
+"custo mesmo se significa que também tenha de destruir esses humanos."
 
 #. [message]: speaker=Maihern
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:128
@@ -66,11 +77,13 @@ msgid ""
 "Great! Orcs, goblins and trolls will fight under one banner. Now it is our "
 "time to control our destiny."
 msgstr ""
+"Vitória! Agora os orcs, trolls e goblins lutam sob a mesma estandarte lado a "
+"lado. É tempo de tomar as rédeas de nosso destino."
 
 #. [message]: speaker=unit
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:138
 msgid "Argh, I am dying! Orcs will be weak without a strong leader."
-msgstr ""
+msgstr "Arre, estou morrendo! Minha tribo será muita fraca sem um líder."
 
 #. [message]: speaker=Maihern
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:199
@@ -79,3 +92,5 @@ msgstr ""
 msgid ""
 "More warriors are here to fight at our side! I can also recruit new units!"
 msgstr ""
+"Vieram mais guerreiros para lutarem ao nosso lado! E ainda posso recrutar "
+"novos recrutas!"
