@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Unite_the_Clans-1.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-09 21:49+0100\n"
-"PO-Revision-Date: 2014-03-09 13:50+0100\n"
+"PO-Revision-Date: 2014-03-11 17:01+0100\n"
 "Last-Translator: Stanislav Hoferek <shoferek@gmail.com>\n"
 "Language-Team: none\n"
 "Language: sk\n"
@@ -28,15 +28,14 @@ msgstr "ZK"
 #. [part]
 #: Unite_the_Clans/_main.cfg:13
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:17
-#, fuzzy
 msgid ""
 "Aimed to be a minimalist campaign. A young warchief have to unite all local "
 "clans and defend against invading knights, whose aim is to prevent the orcs "
 "from gaining power in this region."
 msgstr ""
-"Pripravené ako minimálna kampaň. Mladý vodca orkov musí zjednotiť všetky "
-"miestne kmene a poraziť útočiacich rytierov, ktorí sa pokúšajú odvrátiť "
-"šancu, že orkovia získajú výraznú moc v tejto oblasti."
+"Pripravené ako minimalistická kampaň. Mladý vodca orkov musí zjednotiť "
+"všetky miestne kmene a poraziť útočiacich rytierov, ktorí sa snažia prekaziť "
+"orkom zvyšovanie ich vplyvu v tejto oblasti."
 
 #. [about]
 #: Unite_the_Clans/_main.cfg:29
@@ -60,14 +59,12 @@ msgstr "Zomrie Maihern"
 
 #. [message]: speaker=Maihern
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:120
-#, fuzzy
 msgid ""
 "Those damned knights are back! They must've heard about my plan, to conquer "
 "trolls and goblins. I must destroy these humans if I were to unite the clans!"
 msgstr ""
-"Rytieri sa vrátili! Dočerta! Museli odniekiaľ počuť o mojich plánoch, o "
-"porazení trolov a goblinov. Chcem zjednotiť klany, no na to musím taktiež "
-"zničiť útočiacich ľudí!"
+"Tí preklati rytieri sú späť! Museli počuť o mojom pláne. Chcem si podrobiť "
+"trolov a goblinov. Musím však poraziť ľudí, ak chcem zjednotiť klany!"
 
 #. [message]: speaker=Maihern
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:128
@@ -81,7 +78,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:138
 msgid "Argh, I am dying! Orcs will be weak without a strong leader."
-msgstr "Arg, umieram! Orkovia budú slabí bez silného lídra."
+msgstr "Arg, umieram! Orkovia budú slabí bez silného veliteľa."
 
 #. [message]: speaker=Maihern
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:199
