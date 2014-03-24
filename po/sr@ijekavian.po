@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Unite_the_Clans-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-09 21:49+0100\n"
+"POT-Creation-Date: 2014-03-24 03:12+0100\n"
 "PO-Revision-Date: 2014-03-08 23:16+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -55,28 +55,28 @@ msgid "Death of Maihern"
 msgstr ""
 
 #. [message]: speaker=Maihern
-#: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:120
+#: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:132
 msgid ""
 "Those damned knights are back! They must've heard about my plan, to conquer "
 "trolls and goblins. I must destroy these humans if I were to unite the clans!"
 msgstr ""
 
 #. [message]: speaker=Maihern
-#: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:128
+#: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:140
 msgid ""
 "Great! Orcs, goblins and trolls will fight under one banner. Now it is our "
 "time to control our destiny."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:138
+#: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:150
 msgid "Argh, I am dying! Orcs will be weak without a strong leader."
 msgstr ""
 
 #. [message]: speaker=Maihern
-#: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:199
-#: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:251
-#: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:306
+#: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:211
+#: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:263
+#: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:318
 msgid ""
 "More warriors are here to fight at our side! I can also recruit new units!"
 msgstr ""
