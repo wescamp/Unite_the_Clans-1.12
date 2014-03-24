@@ -1,3 +1,8 @@
+1.0.6
+
+- modified map
+- added frunt in the northern village (for players who love to play "defend a village")
+
 1.0.5
 
 - fixed few strings with grammar mistakes
