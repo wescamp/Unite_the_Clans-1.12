@@ -1,28 +1,31 @@
+#
+# TreefeedXavier <treefeed@mail.ru>, 2014.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Unite_the_Clans-1.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-24 03:12+0100\n"
-"PO-Revision-Date: 2014-03-08 23:16+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2014-03-22 12:55+0200\n"
+"Last-Translator: TreefeedXavier <treefeed@mail.ru>\n"
+"Language-Team: русский <>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\n"
 
 #. [campaign]: id=Unite the Clans
 #. [scenario]: id=Unite_the_Clans
 #: Unite_the_Clans/_main.cfg:9 Unite_the_Clans/scenarios/Unite_the_Clans.cfg:5
 msgid "Unite the Clans"
-msgstr ""
+msgstr "Объединение кланов"
 
 #. [campaign]: id=Unite the Clans
 #: Unite_the_Clans/_main.cfg:10
 msgid "UTC"
-msgstr ""
+msgstr "ОбК"
 
 #. [campaign]: id=Unite the Clans
 #. [part]
@@ -33,26 +36,30 @@ msgid ""
 "clans and defend against invading knights, whose aim is to prevent the orcs "
 "from gaining power in this region."
 msgstr ""
+"создавалась как минималистская кампания. Юный вождь должен объединить все "
+"местные племена и выступить против рыцарей-захватчиков, что вторглись, дабы "
+"разбить орков, набирающих силу в данном краю."
 
 #. [about]
 #: Unite_the_Clans/_main.cfg:29
 msgid "Made by Stanislav Hoferek"
 msgstr ""
+"Создано Станиславом Хофереком. <small><i>Перевод TreefeedXavier</i><small>"
 
 #. [side]: type=Orcish Ruler, id=Maihern
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:29
 msgid "your_leader_male^Maihern"
-msgstr ""
+msgstr "Мейхерн"
 
 #. [objective]: condition=win
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:90
 msgid "Defeat trolls, goblins and human knights"
-msgstr ""
+msgstr "Одолейте троллей, гоблинов и человеческих рыцарей."
 
 #. [objective]: condition=lose
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:94
 msgid "Death of Maihern"
-msgstr ""
+msgstr "Смерть Мейхерна"
 
 #. [message]: speaker=Maihern
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:132
@@ -60,6 +67,9 @@ msgid ""
 "Those damned knights are back! They must've heard about my plan, to conquer "
 "trolls and goblins. I must destroy these humans if I were to unite the clans!"
 msgstr ""
+"Эти проклятые рыцари вернулись! Они должно быть прослышали о моём плане "
+"захватить троллей и гоблинов. Я должен уничтожить этих людей, если хочу "
+"сплотить кланы!"
 
 #. [message]: speaker=Maihern
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:140
@@ -67,11 +77,13 @@ msgid ""
 "Great! Orcs, goblins and trolls will fight under one banner. Now it is our "
 "time to control our destiny."
 msgstr ""
+"Отлично! Орки, гоблины и тролли будут бится под одними знамёнами. Теперь "
+"наша судьба - в наших руках."
 
 #. [message]: speaker=unit
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:150
 msgid "Argh, I am dying! Orcs will be weak without a strong leader."
-msgstr ""
+msgstr "Арр, я помираю! Орки станут слабыми без крепкого вожака!"
 
 #. [message]: speaker=Maihern
 #: Unite_the_Clans/scenarios/Unite_the_Clans.cfg:211
@@ -80,3 +92,5 @@ msgstr ""
 msgid ""
 "More warriors are here to fight at our side! I can also recruit new units!"
 msgstr ""
+"Ещё войны прибыли, что бы пополнить наши ряды! Я так же могу нанять новых "
+"бойцов!"
