@@ -1,3 +1,8 @@
+1.0.7
+
+- minor modifications to map
+- added more units
+
 1.0.6
 
 - modified map
